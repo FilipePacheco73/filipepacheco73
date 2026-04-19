@@ -14,11 +14,15 @@
 
 <div style="white-space: nowrap;">
   <a href="https://github.com/FilipePacheco73" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" style="margin-right: 12px;"/>
   </a>
   
   <a href="https://linkedin.com/in/filipespacheco" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" style="margin-right: 12px;"/>
+  </a>
+
+  <a href="https://medium.com/@filipespacheco" target="_blank">
+    <img src="https://cdn.simpleicons.org/medium/000000" width="40"/>
   </a>
 </div>
 
